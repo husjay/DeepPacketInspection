@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: regex - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Martin\AppData\Local\Temp\RSP9822.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /Fp"Debug/regex.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\PROJECT\int_set.cpp"
+]
+Creating command line "cl.exe @C:\Users\Martin\AppData\Local\Temp\RSP9822.tmp" 
+<h3>Output Window</h3>
+Compiling...
+int_set.cpp
+d:\project\int_set.cpp(94) : fatal error C1010: unexpected end of file while looking for precompiled header directive
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+int_set.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

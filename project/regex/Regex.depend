@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1401793495 source:d:\project\dfa.cpp
+	"dfa.h"
+	"nfa.h"
+	<stdio.h>
+	<list>
+	"dheap.h"
+	<sys/time.h>
+	<cstring>
+	<string>
+
+1399551609 d:\project\dfa.h
+	"stdinc.h"
+	"int_set.h"
+	"linked_set.h"
+	"wgraph.h"
+	"partition.h"
+	<map>
+	<set>
+	<list>
+
+1398408161 d:\project\stdinc.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1216418938 d:\project\int_set.h
+
+1216418938 d:\project\linked_set.h
+
+1216418938 d:\project\wgraph.h
+	<stdio.h>
+
+1216418938 d:\project\partition.h
+
+1399280402 d:\project\nfa.h
+	"stdinc.h"
+	"linked_set.h"
+	"dfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1216418938 d:\project\dheap.h
+
+1216418940 source:d:\project\dheap.cpp
+	"stdinc.h"
+	"dheap.h"
+
+1222553164 source:d:\project\hybrid_fa.cpp
+	"hybrid_fa.h"
+	"subset.h"
+
+1398405815 d:\project\hybrid_fa.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1217620464 d:\project\subset.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"dheap.h"
+	<set>
+
+1398402177 source:d:\project\int_set.cpp
+	"int_set.h"
+	"stdinc.h"
+
+1216418940 source:d:\project\linked_set.cpp
+	"linked_set.h"
+	"stdinc.h"
+
+1216418940 source:d:\project\cache.cpp
+	"cache.h"
+
+1216418938 d:\project\cache.h
+	"stdinc.h"
+
+1216751208 source:d:\project\dfas_memory.cpp
+	"dfas_memory.h"
+
+1398408689 d:\project\dfas_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"cache.h"
+	"fa_memory.h"
+
+1216418938 d:\project\fa_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"cache.h"
+
+1222551279 source:d:\project\fa_memory.cpp
+	"fa_memory.h"
+
+1401870183 source:d:\project\main.cpp
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"hybrid_fa.h"
+	"parser.h"
+	"trace.h"
+	<string>
+
+1401868830 d:\project\parser.h
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"int_set.h"
+
+1248281732 d:\project\trace.h
+	"dfa.h"
+	"nfa.h"
+	"hybrid_fa.h"
+	"fa_memory.h"
+	"dfas_memory.h"
+
+1399281004 source:d:\project\nfa.cpp
+	"nfa.h"
+	<iterator>
+	"subset.h"
+
+1401868860 source:d:\project\parser.cpp
+	"parser.h"
+
+1216418940 source:d:\project\partition.cpp
+	"stdinc.h"
+	"partition.h"
+
+1216418940 source:d:\project\stdinc.cpp
+	"stdinc.h"
+
+1399274736 source:d:\project\subset.cpp
+	"subset.h"
+	<iterator>
+
+1248371816 source:d:\project\trace.cpp
+	"trace.h"
+	"dheap.h"
+	<set>
+	<iterator>
+
+1216418940 source:d:\project\wgraph.cpp
+	"stdinc.h"
+	"wgraph.h"
+
+1216418940 source:e:\project\cache.cpp
+	"cache.h"
+
+1216418938 e:\project\cache.h
+	"stdinc.h"
+
+1398408161 e:\project\stdinc.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1401872249 source:e:\project\dfa.cpp
+	"dfa.h"
+	"nfa.h"
+	<stdio.h>
+	<list>
+	"dheap.h"
+	<sys/time.h>
+	<cstring>
+	<string>
+
+1399551609 e:\project\dfa.h
+	"stdinc.h"
+	"int_set.h"
+	"linked_set.h"
+	"wgraph.h"
+	"partition.h"
+	<map>
+	<set>
+	<list>
+
+1216418938 e:\project\int_set.h
+
+1216418938 e:\project\linked_set.h
+
+1216418938 e:\project\wgraph.h
+	<stdio.h>
+
+1216418938 e:\project\partition.h
+
+1399280402 e:\project\nfa.h
+	"stdinc.h"
+	"linked_set.h"
+	"dfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1216418938 e:\project\dheap.h
+
+1216751208 source:e:\project\dfas_memory.cpp
+	"dfas_memory.h"
+
+1398408689 e:\project\dfas_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"cache.h"
+	"fa_memory.h"
+
+1216418938 e:\project\fa_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"cache.h"
+
+1216418940 source:e:\project\dheap.cpp
+	"stdinc.h"
+	"dheap.h"
+
+1222551279 source:e:\project\fa_memory.cpp
+	"fa_memory.h"
+
+1222553164 source:e:\project\hybrid_fa.cpp
+	"hybrid_fa.h"
+	"subset.h"
+
+1398405815 e:\project\hybrid_fa.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1217620464 e:\project\subset.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"dheap.h"
+	<set>
+
+1398402177 source:e:\project\int_set.cpp
+	"int_set.h"
+	"stdinc.h"
+
+1216418940 source:e:\project\linked_set.cpp
+	"linked_set.h"
+	"stdinc.h"
+
+1402247459 source:e:\project\main.cpp
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"hybrid_fa.h"
+	"parser.h"
+	"trace.h"
+	<string>
+
+1401868830 e:\project\parser.h
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"int_set.h"
+
+1248281732 e:\project\trace.h
+	"dfa.h"
+	"nfa.h"
+	"hybrid_fa.h"
+	"fa_memory.h"
+	"dfas_memory.h"
+
+1399281004 source:e:\project\nfa.cpp
+	"nfa.h"
+	<iterator>
+	"subset.h"
+
+1401868860 source:e:\project\parser.cpp
+	"parser.h"
+
+1216418940 source:e:\project\partition.cpp
+	"stdinc.h"
+	"partition.h"
+
+1216418940 source:e:\project\stdinc.cpp
+	"stdinc.h"
+
+1399274736 source:e:\project\subset.cpp
+	"subset.h"
+	<iterator>
+
+1248371816 source:e:\project\trace.cpp
+	"trace.h"
+	"dheap.h"
+	<set>
+	<iterator>
+
+1216418940 source:e:\project\wgraph.cpp
+	"stdinc.h"
+	"wgraph.h"
+
+1403102744 source:c:\testdata\code\code\project\cache.cpp
+	"cache.h"
+
+1403102744 c:\testdata\code\code\project\cache.h
+	"stdinc.h"
+
+1403102744 c:\testdata\code\code\project\stdinc.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1403102744 source:c:\testdata\code\code\project\dfa.cpp
+	"dfa.h"
+	"nfa.h"
+	<stdio.h>
+	<list>
+	"dheap.h"
+	<sys/time.h>
+	<cstring>
+	<string>
+
+1403102744 c:\testdata\code\code\project\dfa.h
+	"stdinc.h"
+	"int_set.h"
+	"linked_set.h"
+	"wgraph.h"
+	"partition.h"
+	<map>
+	<set>
+	<list>
+
+1403102744 c:\testdata\code\code\project\int_set.h
+
+1403102744 c:\testdata\code\code\project\linked_set.h
+
+1403102744 c:\testdata\code\code\project\wgraph.h
+	<stdio.h>
+
+1403102744 c:\testdata\code\code\project\partition.h
+
+1403102744 c:\testdata\code\code\project\nfa.h
+	"stdinc.h"
+	"linked_set.h"
+	"dfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1403102744 c:\testdata\code\code\project\dheap.h
+
+1403102744 source:c:\testdata\code\code\project\dfas_memory.cpp
+	"dfas_memory.h"
+
+1403102744 c:\testdata\code\code\project\dfas_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"cache.h"
+	"fa_memory.h"
+
+1403102744 c:\testdata\code\code\project\fa_memory.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"cache.h"
+
+1403102744 source:c:\testdata\code\code\project\dheap.cpp
+	"stdinc.h"
+	"dheap.h"
+
+1403102744 source:c:\testdata\code\code\project\fa_memory.cpp
+	"fa_memory.h"
+
+1403102744 source:c:\testdata\code\code\project\hybrid_fa.cpp
+	"hybrid_fa.h"
+	"subset.h"
+
+1403102744 c:\testdata\code\code\project\hybrid_fa.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	<list>
+	<set>
+	<map>
+	<utility>
+
+1403102744 c:\testdata\code\code\project\subset.h
+	"stdinc.h"
+	"dfa.h"
+	"nfa.h"
+	"dheap.h"
+	<set>
+
+1403102744 source:c:\testdata\code\code\project\int_set.cpp
+	"int_set.h"
+	"stdinc.h"
+
+1403102744 source:c:\testdata\code\code\project\linked_set.cpp
+	"linked_set.h"
+	"stdinc.h"
+
+1403102744 source:c:\testdata\code\code\project\nfa.cpp
+	"nfa.h"
+	<iterator>
+	"subset.h"
+
+1403102744 source:c:\testdata\code\code\project\parser.cpp
+	"parser.h"
+
+1403102744 c:\testdata\code\code\project\parser.h
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"int_set.h"
+
+1403102744 source:c:\testdata\code\code\project\partition.cpp
+	"stdinc.h"
+	"partition.h"
+
+1403102744 source:c:\testdata\code\code\project\stdinc.cpp
+	"stdinc.h"
+
+1403102744 source:c:\testdata\code\code\project\subset.cpp
+	"subset.h"
+	<iterator>
+
+1403102744 source:c:\testdata\code\code\project\trace.cpp
+	"trace.h"
+	"dheap.h"
+	<set>
+	<iterator>
+
+1403102744 c:\testdata\code\code\project\trace.h
+	"dfa.h"
+	"nfa.h"
+	"hybrid_fa.h"
+	"fa_memory.h"
+	"dfas_memory.h"
+
+1403102744 source:c:\testdata\code\code\project\wgraph.cpp
+	"stdinc.h"
+	"wgraph.h"
+
+1430789390 source:c:\testdata\code\code\project\main.cpp
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"hybrid_fa.h"
+	"parser.h"
+	"trace.h"
+	<string>
+
+1434453460 source:c:\testdata\code\code\project\divide.cpp
+	"stdinc.h"
+	"nfa.h"
+	"dfa.h"
+	"hybrid_fa.h"
+	"parser.h"
+	"trace.h"
+	<string>
+	<limits.h>
+	<iostream>
+	<strstream>
+

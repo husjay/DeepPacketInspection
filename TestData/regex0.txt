@@ -1,0 +1,82 @@
+^ssqf
+
+^(\*[ss].*ev|\*s.?.?.?.?s)|flapon|toc_signon.*0x
+
+user-agent:aim/
+
+^ajprotrf
+
+YCLC_E|CYEL
+
+^[a-z][a-z0-9]+@[1-9][0-9]+$
+
+^(dbittorrent protocol|azvers$|get /scrape\?info_hash=get /announce\?info_hash=|get /client/bitcomet/|GET /data\?fid=)|d1:ad2:id20:|b'7P\)[RP]
+
+^CTPv1\.[123] Kamusta.*rf$
+
+s[0-4][0-9]:[0-9]+.*e$
+
+
+^BEGIN (AUTH|VERIFICATION|GSSAPI) REQUESTf
+
+
+^(longaccoun|qsver2auth|5[57]0|\+e\*)
+
+
+^(\$mynick |\$lock |\$key )
+
+#^get (/.download/[ -~]*|/.supernode[ -~]|/.status[ -~]|/.network[ -~]*|/.files|/.hash=[0-9a-f]*/[ -~]*) http/1.1|user-agent: kazaa|x-kazaa(-username|-network|-ip|-supernodeip|-xferid|-xferuid|tag)|^give [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]?[0-9]?[0-9]?
+
+
+^s[bt][eo]
+
+#^220[t-r -~]*ftp
+
+^gkrellm [23].[0-9].[0-9]f$
+
+#^(gnd[ss]?.?.?s|gnutella connect/[012]\\.[0-9]rf|get /uri-res/n2r\\?urn:sha1:|get /.*user-agent: (gtk-gnutella|bearshare|mactella|gnucleus|gnotella|limewire|imesh)|get /.*content-type: application/x-gnutella-packets|giv [0-9]*:[0-9a-f]*/|queue [0-9a-f]* [1-9][0-9]?[0-9]?\\.[1-9][0-9]?[0-9]?\\.[1-9][0-9]?[0-9]?\\.[1-9][0-9]?[0-9]?:[1-9][0-9]?[0-9]?[0-9]?|gnutella.*content-type: application/x-gnutella|...................?lime)
+
+#<peerplat>|^get /getfilebyhash\\.cgi\\?|^get /queue_register\\.cgi\\?|^get /getupdowninfo\\.cgi\\?
+
+#^[t-r]*[1-9,+tgi][t-r -~]*t[t-r -~]*t[a-z0-9.]*\\.[a-z][a-z].?.?t[1-9]
+
+^[oq]f.is
+
+#^e..?b...?.?.?.?.?.?.?.?.?.?.?.?.?.?.?q
+
+^\|/dev/[a-z][a-z][a-z]\|[0-9a-z]*\|[0-9][0-9]\|[cfk]\|
+
+^....................TRTPHOTLss
+
+#^(get[t-r -~]* Accept: application/x-rtsp-tunnelled|http/(0\\.9|1\\.0|1\\.1) [1-5][0-9][0-9] [t-r -~]*a=control:rtsp://)
+
+#http/(0\.9|1\.0|1\\.1) [1-5][0-9][0-9] [t-r -~]*(connection:|content-type:|content-length:|date:)|post [t-r -~]* http/[01]\\.[019]
+
+#^[1-9][0-9]?[0-9]?[0-9]?[0-9]?[t-r]*,[t-r]*[1-9][0-9]?[0-9]?[0-9]?[0-9]?(rf|[rf])?$
+
+^(\* ok|a[0-9]+ noop)
+
+ipp://
+
+^(Public|AES)Key: [0-9a-f]*fEnd(Public|AES)Keyf$
+
+^(dmdt.*s.*(""|11|uu)|tncp.*33)
+
+^[a-z][a-z0-9][a-z0-9]+/[1-9][0-9]?[0-9]?[0-9]?00
+
+rtsp/1.0 200 ok
+
+^ee...........fs.....o
+
+^..s.............
+
+.
+
+.
+
+userspace flags=REG_NOSUB REG_EXTENDED
+
+#q[s-b]*q[s-b]?.*q[s-e][se].*q[s-b]?[se]
+
+#^GETMP3rfFilename|^s.?.?.?(Q:\\+|Q2:)|^e[d-s]e[n-b].?.?.?.?$
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Regex" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Regex" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Regex" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../cache.cpp" />
+		<Unit filename="../cache.h" />
+		<Unit filename="../dfa.cpp" />
+		<Unit filename="../dfa.h" />
+		<Unit filename="../dfas_memory.cpp" />
+		<Unit filename="../dfas_memory.h" />
+		<Unit filename="../dheap.cpp" />
+		<Unit filename="../dheap.h" />
+		<Unit filename="../fa_memory.cpp" />
+		<Unit filename="../fa_memory.h" />
+		<Unit filename="../hybrid_fa.cpp" />
+		<Unit filename="../hybrid_fa.h" />
+		<Unit filename="../int_set.cpp" />
+		<Unit filename="../int_set.h" />
+		<Unit filename="../linked_set.cpp" />
+		<Unit filename="../linked_set.h" />
+		<Unit filename="../main.cpp" />
+		<Unit filename="../nfa.cpp" />
+		<Unit filename="../nfa.h" />
+		<Unit filename="../parser.cpp" />
+		<Unit filename="../parser.h" />
+		<Unit filename="../partition.cpp" />
+		<Unit filename="../partition.h" />
+		<Unit filename="../stdinc.cpp" />
+		<Unit filename="../stdinc.h" />
+		<Unit filename="../subset.cpp" />
+		<Unit filename="../subset.h" />
+		<Unit filename="../trace.cpp" />
+		<Unit filename="../trace.h" />
+		<Unit filename="../wgraph.cpp" />
+		<Unit filename="../wgraph.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
